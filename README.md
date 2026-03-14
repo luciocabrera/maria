@@ -173,6 +173,8 @@ Construir la estructura de páginas web, como arquitecto de un mundo isekai.
 | Navegación | Menú con links entre páginas | ☐ |
 | Formulario | Formulario funcional con validación básica | ☐ |
 | GitHub | Proyecto subido al repositorio | ☐ |
+| Completar tutorial [html](https://www.w3schools.com/html/html_intro.asp) | Crear cuenta y mostrar progreso | ☐ |
+
 
 🏆 **Rango obtenido al completar: Arquitecto del Mundo Digital** 🏗️
 
@@ -317,6 +319,9 @@ h1 { color: orange; }
 | Grid | Al menos una sección con CSS Grid | ☐ |
 | Animaciones | Mínimo 2 animaciones CSS | ☐ |
 | Responsivo | Se ve bien en móvil y desktop | ☐ |
+|Completar Flexbox Froggy (juego)| Todos los pasos| ☐ |
+|Grid Garden (juego)| Todos los pasos| ☐ |
+
 
 🏆 **Rango obtenido al completar: Artista del Chakra Visual** 🎨
 
