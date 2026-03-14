@@ -61,6 +61,7 @@ git pull              # Descargar cambios
 - [GitHub Skills (cursos interactivos)](https://skills.github.com)
 - [Video tutorial en español](https://www.youtube.com/watch?v=mBYSUUnMt9M)
 - [Visualizador interactivo de Git](https://learngitbranching.js.org/?locale=es_ES)
+- [VS Code](https://www.youtube.com/watch?v=eurOEmEnwyg&list=PLg9145ptuAih53bphkhVmoCBECkkI-86R&index=3)
 
 ### 📊 Evaluación del Arco 1
 
@@ -304,6 +305,7 @@ h1 { color: orange; }
 - [Grid Garden (juego)](https://cssgridgarden.com/#es)
 - [Google Fonts](https://fonts.google.com)
 - [Animista (generador de animaciones)](https://animista.net)
+- [Flexbox](https://www.youtube.com/watch?v=iwFEc6I8wSA)
 
 ### 📊 Evaluación del Arco 3
 
