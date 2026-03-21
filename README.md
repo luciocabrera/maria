@@ -61,7 +61,7 @@ git pull              # Descargar cambios
 - [GitHub Skills (cursos interactivos)](https://skills.github.com)
 - [Video tutorial en español](https://www.youtube.com/watch?v=mBYSUUnMt9M)
 - [Visualizador interactivo de Git](https://learngitbranching.js.org/?locale=es_ES)
-- [VS Code definitivo](https://www.youtube.com/watch?v=TbzrOz8HbFM)
+
 
 ### 📊 Evaluación del Arco 1
 
@@ -186,6 +186,7 @@ Puedes cambiar:
 * [Guía oficial de VS Code](https://code.visualstudio.com/docs)
 * [Extensiones recomendadas](https://marketplace.visualstudio.com/VSCode)
 * [Tutorial VS Code en español](https://www.youtube.com/watch?v=ORrELERGIHs)
+* [VS Code definitivo](https://www.youtube.com/watch?v=TbzrOz8HbFM)
 
 ---
 
