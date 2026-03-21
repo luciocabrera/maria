@@ -77,7 +77,136 @@ git pull              # Descargar cambios
 
 ---
 
-## 🌐 ARCO 2 — HTML: Los Cimientos del Mundo Digital
+## 💻 ARCO 2 — VS Code: La Forja del Ninja Digital
+
+### 🎯 Objetivo
+
+Dominar tu herramienta principal de desarrollo: el editor de código. Convertir VS Code en tu espada ninja personalizada ⚔️
+
+### 📖 Teoría
+
+**¿Qué es VS Code?**
+Visual Studio Code es tu base de operaciones. Es como el laboratorio de Senku en *Dr. Stone* 🧪 — donde construyes todo tu poder.
+
+**¿Por qué es importante?**
+Porque programar sin un buen editor es como pelear sin arma: posible… pero innecesariamente difícil 😅
+
+---
+
+### 🧠 Conceptos clave
+
+**Interfaz básica:**
+
+* **Explorer:** Donde ves tus archivos (tu inventario ninja 🎒)
+* **Editor:** Donde escribes tu código (tu campo de batalla)
+* **Terminal:** Ejecutas comandos (invocas jutsu ⚡)
+* **Extensions:** Nuevos poderes que agregas
+
+---
+
+### ⚙️ Funciones esenciales
+
+**1. Crear y abrir proyectos**
+
+* Abrir carpeta = iniciar misión
+* Crear archivos (`index.html`, `styles.css`, etc.)
+
+---
+
+**2. Terminal integrada**
+
+```bash
+pwd        # Ver dónde estás
+ls         # Ver archivos
+cd carpeta # Moverte entre carpetas
+```
+
+---
+
+**3. Autocompletado (IntelliSense)**
+VS Code predice tu código como si tuvieras un compañero ninja ayudándote 🤝
+
+---
+
+**4. Extensiones (Power-ups)**
+
+Algunas esenciales:
+
+* **Live Server** → Ver tu web en vivo 🔥
+* **Prettier** → Formatear código automáticamente
+* **ESLint** → Detectar errores
+* **GitLens** → Mejorar Git dentro de VS Code
+
+---
+
+**5. Atajos de teclado (jutsus rápidos)**
+
+| Acción          | Atajo      |
+| --------------- | ---------- |
+| Abrir archivo   | `Ctrl + P` |
+| Buscar          | `Ctrl + F` |
+| Comentar código | `Ctrl + /` |
+| Terminal        | `Ctrl + ñ` |
+| Guardar         | `Ctrl + S` |
+
+---
+
+**6. Personalización**
+
+Puedes cambiar:
+
+* Tema (modo oscuro ninja 🌑)
+* Fuente
+* Iconos
+* Configuración automática
+
+---
+
+### 🛠️ Ejercicios Prácticos
+
+* **Misión 1 — Instalación:** Descarga e instala VS Code
+* **Misión 2 — Tu base:** Abre una carpeta llamada `mi-dojo`
+* **Misión 3 — Primer archivo:** Crea `index.html`
+* **Misión 4 — Live Server:** Instala la extensión y abre tu página en el navegador
+* **Misión 5 — Terminal ninja:** Navega entre carpetas usando comandos
+* **Misión 6 — Extensiones:** Instala al menos 3 extensiones recomendadas
+* **Misión 7 — Personalización:** Cambia el tema a uno estilo anime o oscuro
+* **Misión 8 (Boss):** Configura:
+
+  * Formateo automático al guardar (Prettier)
+  * Terminal funcionando
+  * Live Server activo
+  * Proyecto listo para el Arco 3
+
+---
+
+### 🔗 Recursos
+
+* [Descargar VS Code](https://code.visualstudio.com/)
+* [Guía oficial de VS Code](https://code.visualstudio.com/docs)
+* [Extensiones recomendadas](https://marketplace.visualstudio.com/VSCode)
+* [Tutorial VS Code en español](https://www.youtube.com/watch?v=ORrELERGIHs)
+
+---
+
+### 📊 Evaluación del Arco 2
+
+| Criterio            | Descripción                       | ✅ |
+| ------------------- | --------------------------------- | - |
+| VS Code instalado   | Editor funcionando correctamente  | ☐ |
+| Proyecto creado     | Carpeta `mi-dojo` con archivos    | ☐ |
+| Terminal usada      | Navegación básica con comandos    | ☐ |
+| Extensiones         | Mínimo 3 instaladas y funcionando | ☐ |
+| Live Server         | Página visible en navegador       | ☐ |
+| Personalización     | Tema/configuración aplicada       | ☐ |
+| Formateo automático | Prettier funcionando              | ☐ |
+
+🏆 **Rango obtenido al completar: Aprendiz del Dojo Digital** 🧑‍💻
+
+
+---
+
+## 🌐 ARCO 3 — HTML: Los Cimientos del Mundo Digital
 
 ### 🎯 Objetivo
 
@@ -163,7 +292,7 @@ Construir la estructura de páginas web, como arquitecto de un mundo isekai.
 - [HTML y CSS (video)](https://www.youtube.com/watch?v=XqFR2lqBYPs)
 - [Validador de HTML](https://validator.w3.org)
 
-### 📊 Evaluación del Arco 2
+### 📊 Evaluación del Arco 3
 
 | Criterio | Descripción | ✅ |
 | --- | --- | --- |
@@ -180,7 +309,7 @@ Construir la estructura de páginas web, como arquitecto de un mundo isekai.
 
 ---
 
-## 🎨 ARCO 3 — CSS: El Arte del Estilo y el Poder Visual
+## 🎨 ARCO 4 — CSS: El Arte del Estilo y el Poder Visual
 
 ### 🎯 Objetivo
 
@@ -309,7 +438,7 @@ h1 { color: orange; }
 - [Animista (generador de animaciones)](https://animista.net)
 - [Flexbox](https://www.youtube.com/watch?v=iwFEc6I8wSA)
 
-### 📊 Evaluación del Arco 3
+### 📊 Evaluación del Arco 4
 
 | Criterio | Descripción | ✅ |
 | --- | --- | --- |
