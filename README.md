@@ -185,7 +185,6 @@ Puedes cambiar:
 * [Descargar VS Code](https://code.visualstudio.com/)
 * [Guía oficial de VS Code](https://code.visualstudio.com/docs)
 * [Extensiones recomendadas](https://marketplace.visualstudio.com/VSCode)
-* [Tutorial VS Code en español](https://www.youtube.com/watch?v=ORrELERGIHs)
 * [VS Code definitivo](https://www.youtube.com/watch?v=TbzrOz8HbFM)
 
 ---
