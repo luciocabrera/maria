@@ -61,7 +61,7 @@ git pull              # Descargar cambios
 - [GitHub Skills (cursos interactivos)](https://skills.github.com)
 - [Video tutorial en español](https://www.youtube.com/watch?v=mBYSUUnMt9M)
 - [Visualizador interactivo de Git](https://learngitbranching.js.org/?locale=es_ES)
-- [VS Code](https://www.youtube.com/watch?v=eurOEmEnwyg&list=PLg9145ptuAih53bphkhVmoCBECkkI-86R&index=3)
+- [VS Code definitivo](https://www.youtube.com/watch?v=TbzrOz8HbFM)
 
 ### 📊 Evaluación del Arco 1
 

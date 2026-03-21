@@ -11,3 +11,4 @@
 [Estefania](https://www.youtube.com/codingwithestefania)
 
 [VS Code](https://www.youtube.com/watch?v=eurOEmEnwyg&list=PLg9145ptuAih53bphkhVmoCBECkkI-86R&index=3)
+[VS Code definitivo](https://www.youtube.com/watch?v=TbzrOz8HbFM)
